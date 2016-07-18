@@ -88,7 +88,7 @@ img {
 /* Main Styles --------------------- */
 
 .main-header {
-  padding-top: 170px;
+  padding-top: 10px;
   height: 850px;
   background: linear-gradient(#ffa949, transparent 90%),
               linear-gradient(0deg, #fff, transparent),
