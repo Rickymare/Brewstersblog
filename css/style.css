@@ -22,7 +22,7 @@ body {
 
 h1,
 h2 {
-  font-family: 'Abolition Regular', Helvetica, Arial, sans-serif;
+  font-family: 'Lobster', Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -82,7 +82,9 @@ a:hover {
 a:active {
   color: lightcoral;
 }
+img {
 
+}
 /* Main Styles --------------------- */
 
 .main-header {
@@ -90,7 +92,7 @@ a:active {
   height: 850px;
   background: linear-gradient(#ffa949, transparent 90%),
               linear-gradient(0deg, #fff, transparent),
-              #ffa949 url('../img/mountains.jpg') no-repeat center;
+              #ffa949 url('../img/sewing.jpg') no-repeat center;
   background-size: cover;
 }
 
