@@ -50,7 +50,7 @@ h3 {
 }
 
 img {
-  max-width: 100%;
+  max-width: 20%;
   margin-bottom: 20px;
   border-radius: 10px;
 }
@@ -82,14 +82,12 @@ a:hover {
 a:active {
   color: lightcoral;
 }
-img {
 
-}
 /* Main Styles --------------------- */
 
 .main-header {
   padding-top: 10px;
-  height: 850px;
+  height: 800px;
   background: linear-gradient(#ffa949, transparent 90%),
               linear-gradient(0deg, #fff, transparent),
               #ffa949 url('../img/sewing.jpg') no-repeat center;
